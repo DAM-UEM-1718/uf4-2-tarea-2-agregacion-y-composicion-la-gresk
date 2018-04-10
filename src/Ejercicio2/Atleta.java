@@ -1,5 +1,9 @@
 package Ejercicio2;
-
+/**
+ * 
+ * @author Iván
+ *
+ */
 public class Atleta {
 	private String nombre;
 	private long nacimiento;

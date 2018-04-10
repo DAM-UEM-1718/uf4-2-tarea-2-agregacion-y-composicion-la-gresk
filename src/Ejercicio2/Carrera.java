@@ -2,7 +2,11 @@ package Ejercicio2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+/**
+ * 
+ * @author Ivan
+ *
+ */
 public class Carrera {
 	private int distancia;
 	private int ronda;

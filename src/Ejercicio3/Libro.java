@@ -1,5 +1,9 @@
 package Ejercicio3;
-
+/**
+ * 
+ * @author Carlos
+ *
+ */
 public class Libro {
 	private String titulo;
 	private long isbn;
