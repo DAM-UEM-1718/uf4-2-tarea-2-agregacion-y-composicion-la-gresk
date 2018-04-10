@@ -84,6 +84,7 @@ public class Carrera {
 
 	public void addCalle(int num) {
 		this.calles[numCalles] = new Calle(num);
+		this.numCalles++;
 	}
 
 	public void setAtleta(int numCalle,Atleta atleta) {
